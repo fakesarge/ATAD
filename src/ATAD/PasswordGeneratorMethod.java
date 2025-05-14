@@ -26,7 +26,7 @@ public class PasswordGeneratorMethod {
 	
 	public String getPassword()
 	{
-		
+		sefsfefsef
 		while(password.length()>=this.Length) {
 		int choice = (int)(Math.random()*this.numOfParam());
 		System.out.println(choice);
